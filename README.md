@@ -12,11 +12,11 @@ Bienvenido al repositorio oficial del curso de **HTML y CSS** del canal [</Maldi
 
 ## 📂 Estructura del Repositorio  
 
-/ 📂 curso-introductorio-html-cs
-├── 📁 lecciones/ # Código de cada lección
-├── 📁 proyecto-final/ # Código completo del proyecto de CV / Página personal
-
-
+```
+📂 curso-html-css/
+  │── 📁 lecciones/ # Código de cada lección
+  │── 📁 proyecto-final/ # Código completo del CV / Página personal
+```
 ## 🛠️ Requisitos  
 - **Editor de código:** Yo usaré [Sublime Text](https://www.sublimetext.com/)  
 - **Navegador:** yo usaré [Google Chrome](https://www.google.com/chrome/)  
